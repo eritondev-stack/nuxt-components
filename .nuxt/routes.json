@@ -1,0 +1,37 @@
+[
+  {
+    "name": "capacity",
+    "path": "/capacity",
+    "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\capacity.vue",
+    "chunkName": "pages/capacity",
+    "_name": "_49e13315"
+  },
+  {
+    "name": "outher",
+    "path": "/outher",
+    "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\outher.vue",
+    "chunkName": "pages/outher",
+    "_name": "_1cdd7da2"
+  },
+  {
+    "name": "page",
+    "path": "/page",
+    "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\page.vue",
+    "chunkName": "pages/page",
+    "_name": "_5eb7302c"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\users.vue",
+    "chunkName": "pages/users",
+    "_name": "_272212bd"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3c8f8ef2"
+  }
+]
