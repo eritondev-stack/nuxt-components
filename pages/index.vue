@@ -2,31 +2,31 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title">
-        Tailwind with NuxtTS
-      </h1>
-<div class="flex flex-row">
+      <h1 class="title">Tailwind with NuxtTS</h1>
+      <div class="flex flex-row">
+        <div class="flex flex-row justify-center">
+          <nuxt-link to="/users">
+            <div
+              class="bg-green-500 hover:bg-green-600 px-5 py-2 text-white w-32 text-center rounded-md cursor-pointer"
+            >
+              Users
+            </div>
+          </nuxt-link>
 
-<div class="flex flex-row justify-center">
-        <nuxt-link
-          to="/users"
-        >
-         <div class="bg-green-500 hover:bg-green-600 px-5 py-2 text-white w-32 text-center rounded-md cursor-pointer">Users</div>
-        </nuxt-link>
-</div>
-</div>
+          <CompCapacity />
+          <CompProjeto />
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
 <script lang="ts">
-import Vue from 'vue'
-import Component from 'vue-class-component'
+import Vue from "vue";
+import Component from "vue-class-component";
 
 @Component
-export default class IndexPage extends Vue {
-  
-}
+export default class IndexPage extends Vue {}
 </script>
 
 <style>
@@ -45,16 +45,8 @@ export default class IndexPage extends Vue {
 }
 
 .title {
-  font-family:
-    'Quicksand',
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   display: block;
   font-weight: 300;
   font-size: 100px;
@@ -69,5 +61,4 @@ export default class IndexPage extends Vue {
   word-spacing: 5px;
   padding-bottom: 15px;
 }
-
 </style>

@@ -3,35 +3,42 @@
     "name": "capacity",
     "path": "/capacity",
     "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\capacity.vue",
-    "chunkName": "pages/capacity",
-    "_name": "_49e13315"
+    "chunkName": "pages/capacity"
   },
   {
     "name": "outher",
     "path": "/outher",
     "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\outher.vue",
-    "chunkName": "pages/outher",
-    "_name": "_1cdd7da2"
+    "chunkName": "pages/outher"
   },
   {
     "name": "page",
     "path": "/page",
     "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\page.vue",
-    "chunkName": "pages/page",
-    "_name": "_5eb7302c"
+    "chunkName": "pages/page"
   },
   {
     "name": "users",
     "path": "/users",
     "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\users.vue",
-    "chunkName": "pages/users",
-    "_name": "_272212bd"
+    "chunkName": "pages/users"
+  },
+  {
+    "name": "vuetify",
+    "path": "/vuetify",
+    "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\vuetify.vue",
+    "chunkName": "pages/vuetify"
+  },
+  {
+    "name": "vuetifyy",
+    "path": "/vuetifyy",
+    "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\vuetifyy.vue",
+    "chunkName": "pages/vuetifyy"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\desenvovimento\\\\nuxt\\\\primeiroapp\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_3c8f8ef2"
+    "chunkName": "pages/index"
   }
 ]

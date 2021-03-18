@@ -50,6 +50,7 @@ import { Context } from "@nuxt/types";
 })
 export default class Moutains extends Vue {
   private id = 0;
+  private users: any
 
   @counter.Mutation
   private incUsers!: (users: any[]) => void;
