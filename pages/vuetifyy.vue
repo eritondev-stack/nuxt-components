@@ -5,7 +5,7 @@
         <div class="w-64">
           <div>Plataformas</div>
 
-          <v-select v-model="value" :items="items" multiple solo>
+          <v-select color="eriton" v-model="value" :items="items" multiple solo>
             <template v-slot:selection="{ item, index }">
               <span v-if="index === 0">{{ item }}</span>
 
@@ -52,8 +52,5 @@ export default class Moutains extends Vue {
 .v-ripple__container {
   opacity: 0 !important;
 }
-.v-application .primary--text {
-    color: #0feb3b !important;
-    caret-color: #0feb3b !important;
-}
+
 </style>
