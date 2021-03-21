@@ -27,8 +27,6 @@
     "vue-fragment": "^1.5.1",
     "vue-js-modal": "^2.0.0-rc.6",
     "vuedraggable": "^2.24.3",
-    "vuesax": "^4.0.1-alpha.25",
-    "vuetify": "^2.4.7",
     "vuex-module-decorators": "^1.0.1"
   },
   "devDependencies": {

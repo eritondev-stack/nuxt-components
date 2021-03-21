@@ -2,7 +2,6 @@
  * This injects Tailwind's base styles and any base styles registered by
  * plugins.
  */
- @tailwind base;
 
  /**
   * This injects Tailwind's component classes and any component classes

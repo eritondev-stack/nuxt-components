@@ -9,7 +9,6 @@ const _1cdd7da2 = () => interopDefault(import('..\\pages\\outher.vue' /* webpack
 const _5eb7302c = () => interopDefault(import('..\\pages\\page.vue' /* webpackChunkName: "pages/page" */))
 const _272212bd = () => interopDefault(import('..\\pages\\users.vue' /* webpackChunkName: "pages/users" */))
 const _fa84b1fa = () => interopDefault(import('..\\pages\\vuetify.vue' /* webpackChunkName: "pages/vuetify" */))
-const _4e1130f4 = () => interopDefault(import('..\\pages\\vuetifyy.vue' /* webpackChunkName: "pages/vuetifyy" */))
 const _3c8f8ef2 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -43,10 +42,6 @@ export const routerOptions = {
     path: "/vuetify",
     component: _fa84b1fa,
     name: "vuetify"
-  }, {
-    path: "/vuetifyy",
-    component: _4e1130f4,
-    name: "vuetifyy"
   }, {
     path: "/",
     component: _3c8f8ef2,
